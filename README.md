@@ -1,3 +1,3 @@
 # Simultaneous Restoration and Super-Resolution GAN for Underwater Image Enhancement
 
-We will share our code in the near future, please stay tuned.
+Our paper has not been formally accepted yet, so the code will be made public after formal acceptance.
